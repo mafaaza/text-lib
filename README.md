@@ -1,4 +1,4 @@
-## Text Lib
+## Text Lib for dot matric printer
     Add Space
 
  Example:
