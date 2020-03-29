@@ -2,19 +2,19 @@
     Add Space
 
  Example:
- - Left
+ - Align Left
 
         Muhammad------------
         Muflih--------------
         Kholidin------------
 
-- Center
+- Align Center
 
         ------Muhammad------
         -------Muflih-------
         ------Kholidin------
 
-- Right
+- Align Right
 
         ------------Muhammad
         --------------Muflih
