@@ -20,6 +20,6 @@
         --------------Muflih
         ------------Kholidin
 
-- Mix with " " Separator
+- Mix with `space` `(" ")` Separator
 
         Sate Ayam   Rp.20000
